@@ -4,6 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
+config.json
+*.log
+.env
+.env.local
+.env.*.local
+dist/
+build/
+coverage/
+temp/
 
 # testing
 /coverage
